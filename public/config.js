@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/holylabseth",
   "VITE_SEO_SITE_NAME": "Holy Dex",
   "VITE_SEO_SITE_DESCRIPTION": "The holy dex",
-  "VITE_SEO_SITE_URL": "https://holylabs.xyz",
+  "VITE_SEO_SITE_URL": "https://dex.holylabs.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@HolyLabsETH",
